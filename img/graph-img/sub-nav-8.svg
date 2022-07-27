@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="19" viewBox="0 0 21 19">
+  <g id="Group_18337" data-name="Group 18337" transform="translate(-15 -85)">
+    <g id="Group_18254" data-name="Group 18254" transform="translate(-10 -39)">
+      <g id="Group_18205" data-name="Group 18205" transform="translate(4112.151 1596.876)">
+        <g id="Group_18326" data-name="Group 18326">
+          <path id="Path_8579" data-name="Path 8579" d="M-4071.1-1470.838l-9.992,8.542" transform="translate(-0.05 2.89)" fill="none" stroke="#26a69a" stroke-width="1.5"/>
+          <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(-4073.151 -1472.876)" fill="none" stroke="#26a69a" stroke-width="1.5">
+            <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+            <circle cx="3.5" cy="3.5" r="2.75" fill="none"/>
+          </g>
+          <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(-4087.151 -1460.876)" fill="none" stroke="#26a69a" stroke-width="1.5">
+            <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+            <circle cx="3.5" cy="3.5" r="2.75" fill="none"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Rectangle_125" data-name="Rectangle 125" transform="translate(28 96)" fill="#fff" stroke="#26a69a" stroke-width="1.2" opacity="0.5">
+      <rect width="8" height="8" stroke="none"/>
+      <rect x="0.6" y="0.6" width="6.8" height="6.8" fill="none"/>
+    </g>
+    <g id="Rectangle_126" data-name="Rectangle 126" transform="translate(15 85)" fill="#fff" stroke="#26a69a" stroke-width="1.2">
+      <rect width="8" height="8" stroke="none"/>
+      <rect x="0.6" y="0.6" width="6.8" height="6.8" fill="none"/>
+    </g>
+  </g>
+</svg>

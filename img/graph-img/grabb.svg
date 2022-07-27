@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="16" height="18" viewBox="0 0 16 18">
+  <defs>
+    <clipPath id="clip-Dots">
+      <rect width="16" height="18"/>
+    </clipPath>
+  </defs>
+  <g id="Dots" clip-path="url(#clip-Dots)">
+    <rect width="16" height="18" fill="transparent"/>
+    <g id="Group_18347" data-name="Group 18347" transform="translate(-1)">
+      <circle id="Ellipse_13" data-name="Ellipse 13" cx="1.5" cy="1.5" r="1.5" transform="translate(4 3)" fill="#9bafbf"/>
+      <circle id="Ellipse_18" data-name="Ellipse 18" cx="1.5" cy="1.5" r="1.5" transform="translate(10 3)" fill="#9bafbf"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="1.5" cy="1.5" r="1.5" transform="translate(4 8)" fill="#9bafbf"/>
+      <circle id="Ellipse_17" data-name="Ellipse 17" cx="1.5" cy="1.5" r="1.5" transform="translate(10 8)" fill="#9bafbf"/>
+      <circle id="Ellipse_15" data-name="Ellipse 15" cx="1.5" cy="1.5" r="1.5" transform="translate(4 13)" fill="#9bafbf"/>
+      <circle id="Ellipse_16" data-name="Ellipse 16" cx="1.5" cy="1.5" r="1.5" transform="translate(10 13)" fill="#9bafbf"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Callout">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Callout" clip-path="url(#clip-Callout)">
+    <g id="Callout-2" data-name="Callout" transform="translate(7.167 7.375)">
+      <path id="Path_8739" data-name="Path 8739" d="M-11586.833-5870.833l4.5-5.167H-11568v-13h-18.833Z" transform="translate(11586.833 5889)" fill="none" stroke="#26a69a" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

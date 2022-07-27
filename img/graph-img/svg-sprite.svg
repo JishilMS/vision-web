@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg">
+
+
+<symbol id="Icon1" viewBox="0 0 21 19">
+
+  <g id="Group_18364" data-name="Group 18364" transform="translate(8593 3247)">
+    <g id="Group_18363" data-name="Group 18363">
+      <g id="Group_18254" data-name="Group 18254" transform="translate(-8618 -3371)">
+        <g id="Group_18205" data-name="Group 18205" transform="translate(4112.151 1596.876)">
+          <path id="Path_8579" data-name="Path 8579" d="M-4071.1-1470.838l-9.992,8.542" transform="translate(-0.05 2.89)" fill="none" stroke="#9bafbf" stroke-width="2"/>
+          <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(-4073.151 -1472.876)" fill="none" stroke="#9bafbf" stroke-width="2">
+            <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+            <circle cx="3.5" cy="3.5" r="2.5" fill="none"/>
+          </g>
+          <g id="Ellipse_3" data-name="Ellipse 3" transform="translate(-4087.151 -1460.876)" fill="none" stroke="#9bafbf" stroke-width="2">
+            <circle cx="3.5" cy="3.5" r="3.5" stroke="none"/>
+            <circle cx="3.5" cy="3.5" r="2.5" fill="none"/>
+          </g>
+        </g>
+      </g>
+      <path id="Path_8648" data-name="Path 8648" d="M-4040.31-2423.5v-5.334h5.02" transform="translate(-4549 -814)" fill="none" stroke="#9bafbf" stroke-width="2"/>
+      <path id="Path_8649" data-name="Path 8649" d="M-4035.29-2428.833v5.334h-5.02" transform="translate(-4540.98 -807.729)" fill="none" stroke="#9bafbf" stroke-width="2"/>
+    </g>
+  </g>
+</symbol>
+
+
+</svg>

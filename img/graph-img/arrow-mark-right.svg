@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Arrow_mark_right">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Arrow_mark_right" data-name="Arrow mark right" clip-path="url(#clip-Arrow_mark_right)">
+    <g id="Arrow_mark_right-2" data-name="Arrow mark right" transform="translate(8.084 6.583)">
+      <path id="Path_8746" data-name="Path 8746" d="M-11569.668-5680.333l-10-9v5.667h-5.833v7.167h5.833v6Z" transform="translate(11585.501 5689.333)" fill="none" stroke="#26a69a" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

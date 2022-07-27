@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+
+<head>
+  <!-- Required meta tags -->
+  <meta charset="utf-8" />
+  <meta http-equiv="x-ua-compatible" content="ie=edge" />
+  <meta name="viewport"
+    content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
+  <meta name="format-detection" content="telephone=no" />
+  <title>Vision :: Login</title>
+  <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" />
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+    integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Manrope:wght@200;300;400;500;600;700;800&family=Poppins:wght@100;200;300;400;500;600;700;800&display=swap"
+    rel="stylesheet" />
+  <link rel="stylesheet" href="css/slick.css" />
+  <link rel="stylesheet" href="css/slick-theme.css" />
+  <link rel="stylesheet" href="css/bootstrap.min.css" />
+  <link rel="stylesheet" href="css/main.css" />
+</head>
+
+<body>
+
+  <!-- Success alert -->
+  <div class="alert success-msg" role="alert">
+    <i class="fas fa-check-circle"></i> Login Success
+  </div>
+
+  <!-- Alert danger -->
+  <div class="alert danger-msg" role="alert">
+    <i class="fas fa-times-circle"></i> Login Error
+  </div>
+
+  <!-- Alert Notofication -->
+  <div class="alert notify-msg" role="alert">
+    <span class="bell">
+      <i class="far fa-bell"></i>
+    </span>
+    <span class="notify-label">
+      Lorem Ipsum is simply <span>dummy</span> text of the printing and typesetting
+    </span>
+    <button class="notify-close-btn">×</button>
+  </div>
+  <!-- Popup for subscribe -->
+  <div class="btn-grp col-12">
+    <a class="button" href="" type="buton" data-toggle="modal" data-target="#subscribeModal">Subscribe Popup</a>
+  </div>
+
+  <div class="log-main">
+    <a class="logo" href="index.html">
+      <img class="logo-white" src="img/logo.svg" alt="" />
+    </a>
+
+    <div class="bg-login">
+      <img src="img/login-bg.svg" alt="" />
+    </div>
+    <div class="log-forms">
+      <div class="lg-hd">
+        <a href="login.html" class="active">Login</a>
+        <a href="signup.html">Sign Up</a>
+      </div>
+      <div class="forms">
+        <div class="hdg">Sign in</div>
+        <div class="otr row">
+          <div class="col-12 col">
+            <div class="input-holder floating-label icon pass">
+              <input type="password" class="frm-control floating-input" placeholder=" " />
+              <label for="">Password</label>
+              <div class="form-alert">Enter Password</div>
+            </div>
+          </div>
+          <!-- <div class="chk-link col">
+            <div class="form-check">
+              <label class="ch-bx">Keep me Logged In
+                <input type="checkbox" />
+                <span class="checkmark"></span>
+              </label>
+            </div>
+            <span>Don't Have an Account ? <a href="signup.html">Sign Up</a></span>
+          </div> -->
+          <div class="btn-grp col-12">
+            <a class="button" href="" type="buton" data-toggle="modal" data-target="#OTPModal">Sign In</a>
+            
+          </div>
+          <div class="col-12">
+            <div class="resend-data-block">
+              <p class="timer">Resend OTP in 25s</p>
+              <p><a class="resend-btn" href="#">Resend OTP</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <div class="footer-sec">
+      <div class="container container-1400">
+        <div class="footer-sec-top">
+          <div class="row">
+            <div class="col-lg-4 col-md-4">
+              <div class="logo">
+                <a href="#">
+                  <img class="logo-white" src="img/f-logo.svg" alt="" />
+                </a>
+              </div>
+            </div>
+            <div class="col-lg-2 col-md-4">
+              <div class="f-link">
+                <ul>
+                  <li><a href="#">About Us</a></li>
+                  <li><a href="features.html">Fetaures</a></li>
+                  <li><a href="#">Help & Support</a></li>
+                  <li><a href="blog.html">Blog</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-4">
+              <div class="f-link">
+                <ul>
+                  <li><a href="news.html">Content Stream & Rss</a></li>
+
+                  <li><a href="terms.html">Terms And Condition</a></li>
+                  <li><a href="privacy-policy.html">Privacy Policy</a></li>
+                  <li><a href="faq.html">Faq</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-lg-3 col-md-12">
+              <div class="soc-link d-flex">
+                <a href="#"><i class="fab fa-facebook-f"></i></a>
+                <a href="#"><i class="fab fa-twitter"></i></a>
+                <a href="#"><i class="fab fa-youtube"></i></a>
+                <a href="#"><i class="fab fa-google-plus-g"></i></a>
+                <a href="#"><i class="fab fa-instagram"></i></a>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="privacy-sec">
+          <p>
+            © 2021 Vision. All Rights Reserved <span>|</span> Privacy Policy
+          </p>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+
+  <!-- OTP modal -->
+  <div class="modal custom-modal fade" id="OTPModal" tabindex="-1" role="dialog" aria-labelledby="OTPLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-md" role="document">
+      <div class="modal-content">
+
+        <div class="modal-body">
+          <div class="modal-body-inner modal-body-otp">
+            <div class="otp-icon">
+              <span class="icon">
+                <img src="img/otp icons.svg" alt="">
+              </span>
+            </div>
+            <p class="otp-title">Please select OTP method.</p>
+            <div class="otp-wrapper">
+              <div class="otp-block">
+                <div class="form-check">
+                  <input type="radio" id="test1" name="radio-group" checked>
+                  <label for="test1">Phone</label>
+                </div>
+              </div>
+              <div class="otp-block">
+                <div class="form-check">
+                  <input type="radio" id="test2" name="radio-group">
+                  <label for="test2">Email</label>
+                </div>
+              </div>
+            </div>
+            <div class="btn-wrapper">
+              <button type="button" class="btn btn-cancel" data-dismiss="modal">Cancel</button>
+              <button type="button" class="btn btn-save">Send</button>
+            </div>
+          </div>
+        </div>
+    
+      </div>
+    </div>
+  </div>
+
+   <!-- subscribe modal -->
+   <div class="modal custom-modal fade subscribe-modal" id="subscribeModal" tabindex="-1" role="dialog" aria-labelledby="OTPLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered modal-md" role="document">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <div class="modal-body-inner modal-body-otp">
+            <div class="sub-icon">
+                <img src="img/subscribe-icn.svg" alt="">
+            </div>
+            <p class="sub-title">
+              Explore more by subscribing to our plans. Click the below button to explore.
+            </p>
+            <div class="btn-wrapper col-12 p-0">
+              <button type="button" class="btn btn-save">Subscribe Now</button>
+            </div>
+          </div>
+        </div>
+    
+      </div>
+    </div>
+  </div>
+
+  <script src="js/vendor/jquery-3.5.1.min.js"></script>
+  <script src="js/vendor/popper.min.js"></script>
+  <script src="js/vendor/bootstrap.min.js"></script>
+  <script src="js/vendor/slick.min.js"></script>
+  <script src="js/main.js"></script>
+</body>
+
+</html>

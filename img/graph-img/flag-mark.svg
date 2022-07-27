@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Flag_Mark">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Flag_Mark" data-name="Flag Mark" clip-path="url(#clip-Flag_Mark)">
+    <g id="Flag_Mark-2" data-name="Flag Mark" transform="translate(7 7.6)">
+      <path id="Path_8749" data-name="Path 8749" d="M-11586.6-5510.6v-16.8h18l-5.4,5.8,5.4,5h-15.4Z" transform="translate(11586.6 5527.4)" fill="none" stroke="#26a69a" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

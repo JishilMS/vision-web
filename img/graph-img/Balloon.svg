@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Balloon">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Balloon" clip-path="url(#clip-Balloon)">
+    <g id="Balloon-2" data-name="Balloon" transform="translate(7.167 7.772)">
+      <path id="Path_8740" data-name="Path 8740" d="M-11586.833-5830.667v-13.167a6.594,6.594,0,0,1,1.458-3.167,6.7,6.7,0,0,1,3.208-1.562,78.219,78.219,0,0,1,9.5.25c2.6.438,4.354,3.125,4.354,6.375s-1.667,6.042-6.062,6.271a72.618,72.618,0,0,1-7.792,0Z" transform="translate(11586.833 5848.603)" fill="none" stroke="#26a69a" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

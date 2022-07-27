@@ -1,0 +1,155 @@
+/*** all Mobile Screen (iphone 6,7,8) ***/
+/*** mobile Landscape Size ***/
+/*** medium devices (tablets, less than 992px) ***/
+/*** iPad in landscape ***/
+/**** smaller than desktop 1200 (devices and browsers) ***/
+/*** laptop with MDPI (medium density per inch) resolution ***/
+/*** SP developers resolution ***/
+/*** laptop with HiDPI (High Dots Per Inch) resolution ***/
+/*** WSXGA (Wide Super Extended Graphics Array) resolution ***/
+/* placeholder mixin */
+/* how to use this variabile*/
+/* .forms{
+   @include placeholder{
+    opacity: 1;color: #a5aeb7;
+  } */
+/* @include transition (.2s ease-out all); */
+/*    @include flexbox();
+    @include justify-content (center);*/
+/*    @include flexbox();
+@include justify-content (center);*/
+.tour-cover {
+  max-width: 640px;
+  border: solid 1px #dee2e6;
+  border-radius: 12px;
+  overflow: hidden;
+  margin: 50px;
+  position: relative;
+  background-color: #fff; }
+  .tour-cover .tour-close-btn {
+    z-index: 2;
+    position: absolute;
+    right: 10px;
+    top: 10px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    height: 20px;
+    padding: 0;
+    font-size: 20px;
+    color: #D6D6D6;
+    border: none;
+    background-color: transparent;
+    transition: .3s; }
+    .tour-cover .tour-close-btn:hover {
+      color: #686868; }
+  .tour-cover .slider-block {
+    padding: 35px 55px; }
+    .tour-cover .slider-block .tour-slider {
+      margin-bottom: 0; }
+      .tour-cover .slider-block .tour-slider .slick-dots {
+        text-align: left;
+        bottom: auto;
+        left: -20px;
+        width: 60px;
+        top: calc(100% + 60px);
+        display: inline-block; }
+      .tour-cover .slider-block .tour-slider .slick-dots li {
+        width: 10px;
+        margin: 0;
+        margin-right: 3px; }
+        .tour-cover .slider-block .tour-slider .slick-dots li.slick-active button:before {
+          background-color: #26A69A; }
+      .tour-cover .slider-block .tour-slider .slick-dots li button {
+        width: 8px;
+        height: 8px; }
+      .tour-cover .slider-block .tour-slider .slick-dots li button:before {
+        content: '';
+        border-radius: 50%;
+        width: 8px;
+        height: 8px;
+        background-color: rgba(107, 128, 145, 0.2);
+        opacity: 1; }
+      .tour-cover .slider-block .tour-slider .slick-track {
+        display: flex !important; }
+      .tour-cover .slider-block .tour-slider .slick-slide {
+        height: inherit !important; }
+      .tour-cover .slider-block .tour-slider .slider-item {
+        font-family: "Poppins", sans-serif; }
+        .tour-cover .slider-block .tour-slider .slider-item h2 {
+          letter-spacing: 0.46px;
+          color: #0C2133;
+          font-weight: 700;
+          margin-bottom: 20px; }
+        .tour-cover .slider-block .tour-slider .slider-item p {
+          margin-bottom: 0;
+          color: #686868;
+          font-size: 14px;
+          line-height: 28px; }
+  .tour-cover .tour-btn-wrapper {
+    display: flex;
+    justify-content: space-between;
+    font-family: "Poppins", sans-serif;
+    border-top: 1px solid #dee2e6;
+    padding: 15px;
+    align-items: center; }
+    .tour-cover .tour-btn-wrapper .skip-btn {
+      font-weight: 500;
+      padding: 5px 10px;
+      color: #D6D6D6;
+      background-color: transparent;
+      border: none;
+      font-family: "Poppins", sans-serif;
+      margin-left: 90px;
+      transition: .3s; }
+      .tour-cover .tour-btn-wrapper .skip-btn:hover {
+        color: #686868; }
+    .tour-cover .tour-btn-wrapper .tour-slide-btn {
+      display: inline-flex;
+      align-items: center;
+      border: none;
+      font-weight: 500;
+      font-family: "Poppins", sans-serif;
+      transition: .3s; }
+      .tour-cover .tour-btn-wrapper .tour-slide-btn:hover {
+        opacity: .8; }
+      .tour-cover .tour-btn-wrapper .tour-slide-btn.prev-btn {
+        color: #686868;
+        background-color: transparent; }
+        .tour-cover .tour-btn-wrapper .tour-slide-btn.prev-btn img {
+          margin-right: 15px; }
+      .tour-cover .tour-btn-wrapper .tour-slide-btn.next-btn {
+        margin-left: 35px;
+        background-color: #26A69A;
+        color: #fff;
+        border-radius: 28px;
+        height: 44px;
+        padding: 10px 25px;
+        width: 145px;
+        justify-content: space-between; }
+        .tour-cover .tour-btn-wrapper .tour-slide-btn.next-btn img {
+          margin-left: 15px; }
+
+.theme-dark .tour-cover {
+  background-color: #012039;
+  border-color: rgba(249, 249, 249, 0.15); }
+.theme-dark .tour-cover .tour-btn-wrapper {
+  border-color: rgba(249, 249, 249, 0.15); }
+.theme-dark .tour-cover .tour-btn-wrapper .skip-btn {
+  color: #b2b5be; }
+.theme-dark .tour-cover .tour-btn-wrapper .tour-slide-btn.prev-btn {
+  color: #fff; }
+  .theme-dark .tour-cover .tour-btn-wrapper .tour-slide-btn.prev-btn img {
+    filter: brightness(0) invert(1) opacity(0.8); }
+.theme-dark .tour-cover .slider-block .tour-slider .slick-dots li button:before {
+  background-color: #b2b5be; }
+.theme-dark .tour-cover .slider-block .tour-slider .slick-dots li.slick-active button:before {
+  background-color: #26A69A; }
+.theme-dark .tour-cover .slider-block .tour-slider .slider-item p,
+.theme-dark .tour-cover .slider-block .tour-slider .slider-item h2 {
+  color: #b2b5be; }
+.theme-dark .tour-cover .tour-close-btn:hover {
+  color: #fff; }
+
+/*# sourceMappingURL=graph-tour.css.map */

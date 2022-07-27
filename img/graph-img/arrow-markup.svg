@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Arrow_mark_up">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Arrow_mark_up" data-name="Arrow mark up" clip-path="url(#clip-Arrow_mark_up)">
+    <g id="Arrow_mark_up-2" data-name="Arrow mark up" transform="translate(6.583 8.083)">
+      <path id="Path_8748" data-name="Path 8748" d="M-11569.668-5680.333l-10-9v5.667h-5.833v7.167h5.833v6Z" transform="translate(5689.334 -11569.668) rotate(-90)" fill="none" stroke="#26a69a" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

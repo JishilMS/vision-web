@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Anchored_Text">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Anchored_Text" data-name="Anchored Text" clip-path="url(#clip-Anchored_Text)">
+    <g id="Anchored_Text-2" data-name="Anchored Text" transform="translate(6.393 7.5)">
+      <path id="Path_8721" data-name="Path 8721" d="M-11586.714-6045.143v-3.428h6.143v17h-2.571" transform="translate(11586.714 6048.571)" fill="none" stroke="#26a69a" stroke-width="1"/>
+      <path id="Path_8722" data-name="Path 8722" d="M-11580.571-6045.143v-3.428h-6.143v17h2.571" transform="translate(11592.714 6048.571)" fill="none" stroke="#26a69a" stroke-width="1"/>
+      <path id="Path_8723" data-name="Path 8723" d="M-11571.5-6040.071v8.271a3.818,3.818,0,0,1-4.25-3.075" transform="translate(11586.714 6048.571)" fill="none" stroke="#26a69a" stroke-width="1"/>
+      <path id="Path_8724" data-name="Path 8724" d="M-11575.75-6040.071v8.271a3.818,3.818,0,0,0,4.25-3.075" transform="translate(11590.714 6048.571)" fill="none" stroke="#26a69a" stroke-width="1"/>
+      <path id="Path_8725" data-name="Path 8725" d="M-11574.031-6036.5h5.031" transform="translate(11586.714 6048.571)" fill="none" stroke="#26a69a" stroke-width="1"/>
+      <circle id="Ellipse_14" data-name="Ellipse 14" cx="1.5" cy="1.5" r="1.5" transform="translate(13.714 6.571)" fill="#26a69a"/>
+    </g>
+  </g>
+</svg>

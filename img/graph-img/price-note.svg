@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Price_Note">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Price_Note" data-name="Price Note" clip-path="url(#clip-Price_Note)">
+    <g id="Price_Note-2" data-name="Price Note" transform="translate(7.417 5.458)">
+      <path id="Path_8742" data-name="Path 8742" d="M-11587.583-5770.417h18.083v9.917h-18.083v-10.417" transform="translate(11587.583 5770.917)" fill="none" stroke="#26a69a" stroke-width="1"/>
+      <path id="Path_8743" data-name="Path 8743" d="M-11578.541-5760.167v6" transform="translate(11587.583 5770.917)" fill="none" stroke="#26a69a" stroke-width="1"/>
+      <g id="Ellipse_20" data-name="Ellipse 20" transform="translate(6.583 15.917)" fill="none" stroke="#26a69a" stroke-width="1">
+        <circle cx="2.5" cy="2.5" r="2.5" stroke="none"/>
+        <circle cx="2.5" cy="2.5" r="2" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

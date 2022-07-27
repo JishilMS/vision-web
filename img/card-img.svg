@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="514" height="471" viewBox="0 0 514 471">
+  <defs>
+    <filter id="Rectangle_8470" x="6.5" y="64.5" width="500" height="330" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7.5" result="blur"/>
+      <feFlood flood-color="#777d9a" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_8473" data-name="Rectangle 8473" width="455" height="285" rx="10" transform="translate(0.39 -0.404)" fill="#fff"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#26a69a"/>
+      <stop offset="1" stop-color="#26a69a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.5" y1="-0.271" x2="0.5" y2="2.259" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffca3f"/>
+      <stop offset="0.097" stop-color="#ca7c22"/>
+      <stop offset="0.189" stop-color="#fddb7a"/>
+      <stop offset="0.42" stop-color="#ffad45"/>
+      <stop offset="0.554" stop-color="#a95f0d"/>
+      <stop offset="0.656" stop-color="#ffad45"/>
+      <stop offset="0.79" stop-color="#ffff9b"/>
+      <stop offset="0.868" stop-color="#ffed7c"/>
+      <stop offset="1" stop-color="#ffca3f"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-4" x1="0.5" y1="-0.875" x2="0.5" y2="2.278" xlink:href="#linear-gradient-3"/>
+  </defs>
+  <g id="Group_19142" data-name="Group 19142" transform="translate(-403 -406)">
+    <g id="Group_19141" data-name="Group 19141">
+      <circle id="Ellipse_748" data-name="Ellipse 748" cx="181" cy="181" r="181" transform="translate(479 452)" fill="#26a69a" opacity="0.08"/>
+      <g id="Ellipse_749" data-name="Ellipse 749" transform="translate(433 406)" fill="none" stroke="#26a69a" stroke-width="3" stroke-dasharray="155 106" opacity="0.08">
+        <circle cx="227" cy="227" r="227" stroke="none"/>
+        <circle cx="227" cy="227" r="225.5" fill="none"/>
+      </g>
+    </g>
+    <rect id="Rectangle_8474" data-name="Rectangle 8474" width="352" height="41" transform="translate(484 755)" fill="#13436b" opacity="0.4"/>
+    <g transform="matrix(1, 0, 0, 1, 403, 406)" filter="url(#Rectangle_8470)">
+      <rect id="Rectangle_8470-2" data-name="Rectangle 8470" width="455" height="285" rx="10" transform="translate(29 84)" fill="#fff"/>
+    </g>
+    <g id="Group_19137" data-name="Group 19137" transform="translate(-15.39 3.404)">
+      <rect id="Rectangle_8470-3" data-name="Rectangle 8470" width="455" height="285" rx="10" transform="translate(447.39 486.596)" fill="#13436b"/>
+      <g id="Mask_Group_215" data-name="Mask Group 215" transform="translate(447 487)" opacity="0.2" clip-path="url(#clip-path)">
+        <circle id="Ellipse_738" data-name="Ellipse 738" cx="211.267" cy="211.267" r="211.267" transform="matrix(0.966, 0.259, -0.259, 0.966, -68.957, -122.551)" opacity="0.72" fill="url(#linear-gradient)"/>
+        <circle id="Ellipse_739" data-name="Ellipse 739" cx="211.267" cy="211.267" r="211.267" transform="matrix(0.966, 0.259, -0.259, 0.966, 318.188, -343.47)" opacity="0.72" fill="url(#linear-gradient)"/>
+      </g>
+      <g id="Group_19126" data-name="Group 19126" transform="translate(475.955 515.291)">
+        <path id="Path_9063" data-name="Path 9063" d="M114.647,151.36a7.418,7.418,0,0,1-7.435,7.435H69.635A7.418,7.418,0,0,1,62.2,151.36V124.835a7.418,7.418,0,0,1,7.435-7.435h37.376a7.418,7.418,0,0,1,7.435,7.435V151.36Z" transform="translate(-62.2 -117.199)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+        <path id="Path_9064" data-name="Path 9064" d="M114.647,130.562v-1H105V117.5h-1v12.057H96.16a8.689,8.689,0,0,0-7.435-6.028V117.3h-.8v6.028a8.439,8.439,0,0,0-8.038,6.028H72.85V117.3h-1v12.057H62.2v1h9.645v13.664H62.2v1h9.645V158.9h1V145.031h6.832a8.407,8.407,0,0,0,8.239,6.631V158.9h1v-7.234a8.566,8.566,0,0,0,7.636-6.631H104V158.9h1V145.031h9.645v-1h-5.627V130.362h5.627ZM79.481,144.227H72.85V130.562h6.832c0,.6-.2,1-.2,1.608a8.575,8.575,0,0,0,2.009,5.426,7.922,7.922,0,0,0-2.009,5.426Zm8.641,6.631a7.633,7.633,0,0,1-7.636-7.636A8.034,8.034,0,0,1,82.5,138l.2-.4-.2-.4a7.116,7.116,0,0,1-2.009-5.225,7.636,7.636,0,1,1,15.272,0,8.034,8.034,0,0,1-2.009,5.225l-.4.4.4.4a7.116,7.116,0,0,1,2.009,5.225A7.633,7.633,0,0,1,88.122,150.858Zm19.894-6.631H96.763v-1a8.575,8.575,0,0,0-2.009-5.426,7.922,7.922,0,0,0,2.009-5.426,4.425,4.425,0,0,0-.2-1.608h11.454Z" transform="translate(-62.2 -117.3)" fill="url(#linear-gradient-4)"/>
+      </g>
+      <text id="_4256" data-name="4256" transform="translate(478.39 637.596)" fill="#fff" font-size="25" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">4256</tspan></text>
+      <text id="_7890" data-name="7890" transform="translate(585.39 637.596)" fill="#fff" font-size="25" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">7890</tspan></text>
+      <text id="John_Smith" data-name="John Smith" transform="translate(476.39 736.596)" fill="#fff" font-size="19" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">JOHN SMITH</tspan></text>
+      <text id="Card_Holder" data-name="Card Holder" transform="translate(476.39 703.596)" fill="#c6dfdd" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Card Holder</tspan></text>
+      <text id="_19_20" data-name="19/20" transform="translate(633.39 736.596)" fill="#fff" font-size="19" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">19/20</tspan></text>
+      <text id="expiry_date" data-name="expiry date" transform="translate(633.39 703.596)" fill="#c6dfdd" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Expiry Date</tspan></text>
+      <text id="_354" data-name="354" transform="translate(745.39 736.596)" fill="#fff" font-size="19" font-family="Poppins-Medium, Poppins" font-weight="500"><tspan x="0" y="0">354</tspan></text>
+      <text id="CVV" transform="translate(745.39 703.596)" fill="#c6dfdd" font-size="12" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">CVV</tspan></text>
+      <text id="_6578" data-name=" 6578" transform="translate(691.39 637.596)" fill="#fff" font-size="25" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0" xml:space="preserve"> 6578</tspan></text>
+      <text id="_4874" data-name="4874" transform="translate(804.39 637.596)" fill="#fff" font-size="25" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">4874</tspan></text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.858" height="9.106" viewBox="0 0 27.858 9.106">
+  <g id="Group_18332" data-name="Group 18332" transform="translate(-87.001 -131.947)">
+    <path id="Path_8703" data-name="Path 8703" d="M-7424.473-2810.1h21" transform="translate(7513.973 2946.605)" fill="none" stroke="#26a69a" stroke-width="1.4"/>
+    <g id="Group_18327" data-name="Group 18327" transform="matrix(0.755, 0.656, -0.656, 0.755, 2201.126, 3913.569)">
+      <g id="Group_18328" data-name="Group 18328" transform="translate(4.015 -1.968)">
+        <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(-4077.32 -1467.86)" fill="#fff" stroke="#26a69a" stroke-width="1.5">
+          <ellipse cx="3.207" cy="3.245" rx="3.207" ry="3.245" stroke="none"/>
+          <ellipse cx="3.207" cy="3.245" rx="2.457" ry="2.495" fill="none"/>
+        </g>
+      </g>
+    </g>
+    <g id="Polygon_3" data-name="Polygon 3" transform="translate(114.859 132.5) rotate(90)" fill="#fff">
+      <path d="M 6.699103832244873 5.359080791473389 L 1.300895810127258 5.359080791473389 L 3.999999761581421 1.270559310913086 L 6.699103832244873 5.359080791473389 Z" stroke="none"/>
+      <path d="M 3.999999761581421 2.541107654571533 L 2.601785182952881 4.659080982208252 L 5.398214340209961 4.659080982208252 L 3.999999761581421 2.541107654571533 M 3.999999761581421 9.5367431640625e-07 L 8 6.059081077575684 L -4.76837158203125e-07 6.059081077575684 L 3.999999761581421 9.5367431640625e-07 Z" stroke="none" fill="#26a69a"/>
+    </g>
+  </g>
+</svg>

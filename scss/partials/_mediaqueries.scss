@@ -1,0 +1,875 @@
+@media (min-width: 1200px) {
+    .container-1000 {
+        max-width: 1000px;
+    }
+}
+
+@media (min-width: 1250px) {
+    .container-1200 {
+        max-width: 1200px;
+    }
+    .container-1500 {
+        max-width: 1200px;
+    }
+    .container-1460 {
+        max-width: 1200px;
+    }
+    .container-1400 {
+        max-width: 1200px;
+    }
+}
+@media (min-width: 1450px) {
+    .container-1500 {
+        max-width: 1400px;
+    }
+    .container-1460 {
+        max-width: 1300px;
+    }
+    .container-1400 {
+        max-width: 1240px;
+    }
+}
+@media (min-width: 1680px) {
+    .container-1500 {
+        max-width: 1500px;
+    }
+    .container-1460 {
+        max-width: 1460px;
+    }
+    .container-1400 {
+        max-width: 1400px;
+    }
+}
+
+@media (#{$sm-1679}) {
+    .become-user-sec .user-img-block::before {
+        left: -141px;
+    }
+    .blog-list-sec .blog-list-wrapper .blog-list-card .blog-list-cover .text-block .top-block p {
+        font-size: 14px;
+    }
+    .footer-sec .footer-sec-top .f-link ul li a {
+        font-size: 16px;
+    }
+    .footer-sec .privacy-sec p,
+    .footer-sec .privacy-sec a {
+        font-size: 16px;
+    }
+    .company-logo-sec .company-logo-col .logo-card {
+        font-size: 16px;
+    }
+    .get-from-vision .row .get-from-img {
+        left: -80px;
+    }
+    .banner-sec .banner-shape {
+        top: -455px;
+    }
+    .banner-sec {
+        padding-top: 100px;
+        padding-bottom: 210px;
+    }
+    .home-vision-sec .vision-wrapper .text-block .text-cover {
+        padding: 100px 100px 100px 80px;
+    }
+
+    .price-grid .col-price .price strong {
+        font: normal normal bold 43px/30px Manrope;
+    }
+    .price-grid .col-price .price {
+        margin-top: 35px;
+        margin-bottom: 25px;
+    }
+    .price-card ul li {
+        margin-bottom: 10px;
+    }
+    .min-container {
+        max-width: 1080px;
+    }
+    .price-grid .col-price .btn-otr {
+        margin-bottom: 35px;
+    }
+
+    .banner-sec .banner-wrapper .img-block img {
+        max-height: 430px;
+    }
+    .banner-sec {
+        padding-bottom: 210px;
+    }
+    header .nav-wrapper .headerButton li a {
+        font-size: 16px;
+    }
+}
+@media (#{$sm-1441}) {
+    .price-grid .col-price .p-hd b {
+        font-size: 15px;
+    }
+    .price-tab {
+        margin-top: 40px;
+        margin-bottom: 35px;
+    }
+    .blog-title-sec .blog-title .page-title {
+        font-size: 52px;
+    }
+    .blog-title-sec .blog-title .page-title-sub {
+        font-size: 36px;
+    }
+    .blog-title-sec {
+        padding: 40px 0;
+    }
+    header .nav-wrapper .headerButton li a {
+        font-size: 15px;
+    }
+    header .nav-wrapper .navbar-nav li.nav-item a {
+        font-size: 15px;
+    }
+    .footer-sec .footer-sec-top .logo a img {
+        max-width: 185px;
+    }
+    .footer-sec .privacy-sec p,
+    .footer-sec .privacy-sec a {
+        font-size: 15px;
+    }
+    .footer-sec .footer-sec-top {
+        padding: 55px 0 40px;
+    }
+    .footer-sec .footer-sec-top .f-link ul li a {
+        font-size: 15px;
+    }
+    .footer-sec .footer-sec-top .soc-link a {
+        font-size: 16px;
+        width: 36px;
+        height: 36px;
+    }
+    .company-logo-sec {
+        padding: 60px 0;
+    }
+    .footer-sec .privacy-sec {
+        padding: 25px 0;
+    }
+    .Subscribe-sec .Subscribe-inner h3 {
+        font-size: 19px;
+        line-height: 30px;
+        margin-bottom: 20px;
+    }
+    .Subscribe-sec {
+        padding: 65px 0;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-img .trading-logo {
+        bottom: 140px;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-content h5 {
+        font-size: 17px;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-content p {
+        font-size: 15px;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-img {
+        flex: 0 0 350px;
+    }
+    .vision-traiding .traiding-inner .traiding-list {
+        padding-top: 15px;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-content {
+        padding: 25px 35px;
+    }
+    .home-befenits-sec {
+        padding: 40px 0;
+    }
+    .home-befenits-sec .befenits-title p {
+        font-size: 17px;
+    }
+    .home-befenits-sec .befenits-block-cover .befenits-block-wrapper .befenits-block-innrer {
+        padding: 50px 25px 50px 50px;
+        min-height: 180px;
+    }
+    .home-befenits-sec .befenits-block-cover .befenits-block-wrapper .befenits-block-innrer p {
+        font-size: 16px;
+        line-height: 24px;
+    }
+    .become-user-sec .user-text-block p,
+    .who-should-use .row .who-should-use-content p,
+    .vision-traiding .traiding-head p {
+        font-size: 16px;
+        line-height: 27px;
+    }
+    .home-why-choose-sec .why-choose-title p,
+    .home-vision-sec .vision-wrapper .text-block .text-cover p {
+        font-size: 17px;
+    }
+    .who-exactly .who-exactly-head {
+        margin-bottom: 15px;
+    }
+    .block-title {
+        font-size: 22px;
+    }
+    .who-exactly .who-exactly-inner .who-exactly-list .list-wrap {
+        padding: 20px;
+    }
+    .who-exactly .who-exactly-inner .who-exactly-list .list-wrap .list-img {
+        img {
+            max-height: 40px;
+        }
+    }
+    .who-exactly .who-exactly-inner .who-exactly-list .list-wrap .list-img {
+        flex: 0 0 50px;
+    }
+    .get-from-vision .row .get-from-img {
+        left: -40px;
+    }
+    .get-from-vision .row .get-from-img img {
+        max-width: 480px;
+    }
+    .sub-head {
+        font-size: 25px;
+    }
+    .get-from-vision .row .get-from-content p {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .home-why-choose-sec .why-choose-title p {
+        font-size: 16px;
+    }
+    .home-why-choose-sec {
+        padding: 40px 0 50px;
+    }
+    .home-why-choose-sec .why-choose-slider-cover .slider-item .choose-text-col h3 {
+        font-size: 17px;
+    }
+    .home-why-choose-sec .why-choose-slider-cover .slick-dots {
+        bottom: -40px;
+    }
+    .home-vision-sec .vision-wrapper .img-block {
+        max-width: 40%;
+    }
+    .home-vision-sec .vision-wrapper .text-block .text-cover {
+        padding: 60px 100px 60px 80px;
+    }
+    .banner-sec .banner-wrapper .text-block {
+        padding-left: 140px;
+    }
+    .banner-sec .banner-wrapper .img-block img {
+        max-height: 380px;
+    }
+    .banner-sec .banner-texture {
+        width: 130px;
+        top: 100px;
+    }
+    .banner-sec {
+        padding-bottom: 168px;
+        padding-top: 60px;
+    }
+    .banner-sec::after {
+        height: 160px;
+    }
+    .banner-sec .banner-shape {
+        top: -605px;
+        left: -432px;
+    }
+    .price-grid .col-price .price strong {
+        font: normal normal bold 38px/30px Manrope;
+    }
+    .price-grid .col-price .price {
+        margin-top: 28px;
+        margin-bottom: 20px;
+    }
+    .price-grid .col-price .btn-otr a {
+        min-height: 50px;
+        font-size: 14px;
+    }
+    .price-card {
+        margin-bottom: 35px;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+    .price-grid .col-price .p-hd {
+        padding-top: 20px;
+    }
+    .price-tab button {
+        width: 185px;
+        min-height: 55px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 1250px) {
+    .faq-list-sec .faq-list-cover {
+        padding: 40px 70px 60px;
+    }
+}
+
+@media (#{$sm-1199}) {
+    .pricing-bg{
+        padding-bottom: 50px;
+    }
+    .become-user-sec .user-img-block::before {
+        width: 235px;
+    }
+    .become-user-sec .user-img-block::after {
+        width: 412px;
+    }
+    .price-grid .col-price .p-hd .duration-info span {
+        font-size: 13px;
+        height: 33px;
+        min-width: 118px;
+    }
+    .price-grid .col-price .price strong {
+        font-size: 34px;
+    }
+    .price-grid .col-price .price {
+        margin-top: 20px;
+        margin-bottom: 15px;
+    }
+    .price-card {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .faq-list-sec .faq-list-cover {
+        padding: 20px 50px 40px;
+    }
+    .blog-title-sec .blog-title .page-title {
+        font-size: 46px;
+    }
+    .blog-title-sec .blog-title .page-title-sub {
+        font-size: 32px;
+    }
+    .footer-sec .footer-sec-top .soc-link a {
+        font-size: 14px;
+        width: 34px;
+        height: 34px;
+    }
+    .company-logo-sec .company-logo-col .logo-card {
+        font-size: 14px;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-img {
+        flex: 0 0 250px;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-img .trading-logo {
+        bottom: 110px;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-content h5 {
+        font-size: 16px;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-content p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-content {
+        padding: 10px 20px;
+    }
+    .get-from-vision .row .get-from-img {
+        left: -60px;
+    }
+    .home-befenits-sec .befenits-block-cover .befenits-block-wrapper .befenits-block-innrer {
+        padding: 45px 25px 40px 35px;
+    }
+    .home-vision-sec.home-trading-sec .vision-wrapper .text-block .text-cover {
+        padding: 40px 80px 40px 40px;
+    }
+
+    .home-why-choose-sec .why-choose-slider-cover .slider-item .choose-text-col p {
+        font-size: 14px;
+        line-height: 22px;
+        margin-bottom: 0;
+    }
+    .home-why-choose-sec .why-choose-slider-cover .slider-item .choose-text-col h3 {
+        font-size: 16px;
+    }
+    .home-vision-sec .vision-wrapper .img-block .texture-img {
+        img {
+            max-height: 160px;
+        }
+    }
+    .home-vision-sec {
+        padding-top: 10px;
+    }
+    .home-vision-sec .vision-wrapper .text-block .text-cover {
+        padding: 40px 50px 40px 50px;
+    }
+    .price-tab button {
+        width: 150px;
+        min-height: 50px;
+    }
+    .banner-sec .banner-wrapper .img-block img {
+        max-height: 330px;
+    }
+    .banner-sec .banner-wrapper .text-block {
+        padding-left: 0;
+    }
+    .banner-sec .banner-shape {
+        top: -380px;
+        left: -230px;
+    }
+    .banner-sec .banner-shape img {
+        height: 900px;
+    }
+    .banner-sec .banner-texture {
+        width: 80px;
+        top: 76px;
+    }
+    .banner-sec {
+        padding-bottom: 140px;
+        padding-top: 40px;
+    }
+    .banner-sec .banner-wrapper .text-block .text-cover h2 {
+        font-size: 34px;
+        line-height: 52px;
+    }
+    .home-why-choose-sec .why-choose-slider-cover .slick-dots {
+        bottom: -40px;
+    }
+    .price-tab button {
+        width: 150px;
+        min-height: 50px;
+    }
+    .blog-title-sec {
+        padding: 35px 0;
+    }
+    .price-tab button {
+        font-size: 14px;
+        width: 135px;
+        min-height: 46px;
+    }
+    .price-grid .col-price .btn-otr a {
+        min-height: 45px;
+    }
+}
+@media (#{$sm-1023}) {
+    // .price-grid .col-price .p-hd{
+    //     padding-top: 25px;
+    // }
+    .price-card {
+        margin-bottom: 15px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .price-grid .col-price .btn-otr {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .price-grid .col-price .price {
+        margin-top: 25px;
+        margin-bottom: 15px;
+    }
+    .price-grid .col-price .btn-otr a {
+        min-height: 50px;
+    }
+}
+
+@media (#{$sm-991}) {
+    .price-grid .col-price .price strong {
+        font: normal normal bold 34px/30px Manrope;
+    }
+    .price-grid .col-price .p-hd .duration-info span {
+        font-size: 13px;
+    }
+    .faq-list-sec .faq-list-cover {
+        padding: 10px 30px 30px;
+    }
+    .faq-title-sec br {
+        display: block;
+    }
+    .blog-title-sec .blog-title .page-title {
+        font-size: 42px;
+    }
+    .blog-title-sec .blog-title .page-title-sub {
+        font-size: 28px;
+    }
+    .blog-title-sec {
+        padding: 30px 0;
+    }
+    .footer-sec .privacy-sec p,
+    .footer-sec .privacy-sec a {
+        font-size: 14px;
+    }
+    .footer-sec .footer-sec-top {
+        padding: 40px 0 30px;
+    }
+    .footer-sec .footer-sec-top .f-link ul li a {
+        font-size: 14px;
+    }
+    .footer-sec .footer-sec-top .logo a img {
+        max-width: 150px;
+    }
+    .company-logo-sec {
+        padding: 40px 0;
+    }
+    .vision-traiding .traiding-inner .traiding-list {
+        padding-top: 20px;
+        flex-direction: column;
+        margin-bottom: 20px;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-content {
+        order: 2;
+    }
+    .vision-traiding .traiding-inner .traiding-list.left-view .traiding-img {
+        order: 1;
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-img {
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto !important;
+        max-width: 220px;
+    }
+    .home-befenits-sec .befenits-block-cover .befenits-block-wrapper .befenits-block-innrer {
+        padding: 45px 25px 30px 35px;
+        min-height: auto;
+    }
+    .home-befenits-sec .befenits-block-cover .befenits-block-wrapper .befenits-block-innrer p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .become-user-sec .user-img-block img {
+        max-width: 100%;
+        max-height: 370px;
+    }
+    .sub-head {
+        font-size: 22px;
+    }
+    .who-exactly .who-exactly-inner .who-exactly-list {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+    .who-should-use .row .who-should-use-img img {
+        max-width: 100%;
+        max-height: 280px;
+    }
+    .get-from-vision .row .get-from-img img {
+        max-width: 100%;
+        max-height: 280px;
+    }
+    .home-why-choose-sec {
+        background-size: cover;
+    }
+    .home-vision-sec .vision-wrapper .text-block .text-cover {
+        padding: 30px 50px;
+    }
+    .home-vision-sec .vision-wrapper .img-block {
+        max-width: 100%;
+    }
+    .home-vision-sec .vision-wrapper .img-block {
+        img {
+            max-height: 250px;
+        }
+    }
+    // .banner-sec .container-1500{
+    //     max-width: 100%;
+    // }
+    .banner-sec .banner-wrapper .img-block img {
+        max-height: 240px;
+    }
+    .banner-sec .banner-wrapper .text-block .text-cover h2 {
+        font-size: 25px;
+        line-height: 43px;
+    }
+    .banner-sec .banner-shape img {
+        max-width: 750px;
+        height: auto;
+    }
+    .banner-sec .banner-shape {
+        top: -196px;
+        left: -55px;
+    }
+    .banner-sec::after {
+        height: 96px;
+    }
+    .banner-sec {
+        margin-top: 70px;
+        padding-bottom: 105px;
+        padding-top: 25px;
+    }
+    .banner-sec .banner-wrapper .text-block .text-cover .btn-block a {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .price-card ul {
+        max-width: 100%;
+        margin: 0 20px;
+    }
+    .pricing-bg {
+        padding-bottom: 50px;
+    }
+    .price-tab button {
+        font: 600 14px/20px "Manrope", sans-serif;
+    }
+    // .price-grid .col-price .price strong {
+    //     font: normal normal bold 38px/30px Manrope;
+    // }
+    .home-vision-sec.home-trading-sec .vision-wrapper .img-block .img-block-cover {
+        padding: 20px 0;
+    }
+}
+@media (#{$sm-767}) {
+    .price-grid .col-price .btn-otr {
+        margin-bottom: 25px;
+    }
+    .price-grid .col-price .p-hd {
+        padding-top: 15px;
+    }
+    .price-grid .col-price .p-hd b {
+        font-size: 14px;
+    }
+    .price-grid .col-price .price strong {
+        font-size: 30px;
+    }
+    header .navbar .navbar-brand img {
+        max-width: 125px;
+    }
+    .price-grid {
+        max-width: 400px;
+        margin: auto;
+        background-color: transparent;
+        box-shadow: none;
+        padding: 0 15px;
+        .col-price{
+            background-color: #fff;
+            margin-bottom: 20px;
+            box-shadow: 0px 3px 33px #9abcd126;
+            border-radius: 10px;
+            overflow: hidden;
+        }
+    }
+    .pricing-bg {
+        padding-bottom: 20px;
+        background-size: cover;
+    }
+    .blog-title-sec .blog-title .page-title {
+        font-size: 36px;
+    }
+    .blog-title-sec .blog-title .page-title-sub {
+        font-size: 25px;
+    }
+    .footer-sec .footer-sec-top {
+        padding: 30px 0 30px;
+    }
+    .company-logo-sec {
+        padding: 30px 0;
+    }
+    .Subscribe-sec .Subscribe-inner h3 {
+        font-size: 17px;
+        line-height: 28px;
+    }
+    .Subscribe-sec {
+        padding: 50px 0;
+    }
+    .Subscribe-sec .Subscribe-inner h3 {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .home-befenits-sec .befenits-block-cover .befenits-block-wrapper .befenits-block-innrer p {
+        font-size: 14px;
+    }
+    .become-user-sec .user-img-block img {
+        max-height: 280px;
+    }
+    .block-title {
+        font-size: 20px;
+    }
+    .sub-head {
+        font-size: 20px;
+    }
+    .home-befenits-sec .befenits-title p {
+        font-size: 15px;
+    }
+    .home-why-choose-sec .why-choose-title p {
+        font-size: 14px;
+    }
+    .home-why-choose-sec {
+        padding: 20px 0 30px;
+    }
+    .banner-sec .container-1500 {
+        max-width: 579px;
+    }
+    .banner-sec .banner-wrapper .img-block img {
+        max-height: 190px;
+    }
+    .banner-sec .banner-wrapper .text-block .text-cover h2 {
+        font-size: 20px;
+        line-height: 35px;
+    }
+    .banner-sec .banner-wrapper .text-block .text-cover {
+        max-width: 280px;
+    }
+    .banner-sec .banner-wrapper .text-block .text-cover .btn-block a {
+        line-height: 14px;
+    }
+    .banner-sec .banner-shape {
+        top: -250px;
+        left: -163px;
+    }
+    .banner-sec {
+        padding-bottom: 103px;
+        padding-top: 25px;
+    }
+    .banner-sec::after {
+        height: 85px;
+    }
+    .home-vision-sec.home-trading-sec .vision-wrapper .img-block img {
+        width: auto;
+        max-height: 300px;
+    }
+    .price-tab {
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+}
+@media (#{$sm-579}) {
+    .banner-sec{
+        margin-top: 60px;
+    }
+    .offcanvas-collapse{
+        top: 60px;
+    }
+    .faq-enq-sec .faq-enq-sec-cover h2 {
+        font-size: 15px;
+    }
+    .faq-enq-sec .faq-enq-sec-cover .enq-form-row .faq-input {
+        height: 40px;
+    }
+    .faq-list-sec .faq-list-cover {
+        padding: 10px 0 30px;
+    }
+    .faq-list-sec .faq-list-cover .faq-list-accordion .card-body p {
+        font-size: 13px;
+    }
+    .faq-list-sec .faq-list-cover {
+        border-left: 0;
+        border-right: 0;
+    }
+    header .navbar .navbar-brand {
+        height: 60px;
+    }
+    .blog-title-sec {
+        margin-top: 60px;
+    }
+    .blog-title-sec .blog-title .page-title {
+        font-size: 32px;
+    }
+    .blog-title-sec {
+        padding: 25px 0;
+    }
+    .blog-title-sec .blog-title .page-title-sub {
+        font-size: 22px;
+    }
+    .footer-sec .privacy-sec {
+        padding: 20px 0;
+    }
+    .footer-sec .privacy-sec p,
+    .footer-sec .privacy-sec a {
+        font-size: 12px;
+    }
+    .footer-sec .footer-sec-top .soc-link a {
+        margin: 5px 0 5px 10px;
+    }
+    .Subscribe-sec .Subscribe-inner button {
+        min-width: 180px;
+        span {
+            font-size: 14px;
+        }
+    }
+    .vision-traiding .traiding-inner .traiding-list .traiding-content h5 {
+        font-size: 15px;
+    }
+    .home-befenits-sec .befenits-block-cover .befenits-block-wrapper .befenits-block-innrer {
+        padding: 45px 15px 30px 35px;
+    }
+    .home-befenits-sec {
+        padding: 30px 0 20px;
+    }
+    .home-vision-sec.home-trading-sec .vision-wrapper .text-block .text-cover {
+        padding: 20px 15px 0;
+    }
+    .become-user-sec .user-text-block p,
+    .who-should-use .row .who-should-use-content p {
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .who-exactly .who-exactly-inner .who-exactly-list .list-wrap .list-content p {
+        font-size: 14px;
+    }
+    .home-why-choose-sec .why-choose-title p,
+    .home-vision-sec .vision-wrapper .text-block .text-cover p,
+    .home-vision-sec.home-trading-sec .vision-wrapper .text-block .text-cover p {
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .get-from-vision .row .get-from-content p {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .become-user-sec .user-img-block img {
+        max-height: 250px;
+    }
+    .block-title {
+        font-size: 18px;
+    }
+    .who-should-use {
+        padding: 25px 0 0;
+    }
+    .who-should-use .row .who-should-use-img img {
+        max-height: 200px;
+    }
+    .get-from-vision .row .get-from-img img {
+        max-height: 200px;
+    }
+    .sub-head {
+        font-size: 20px;
+    }
+    .home-vision-sec .vision-wrapper .text-block .text-cover {
+        padding: 30px;
+    }
+    .banner-sec .banner-wrapper .text-block {
+        padding-left: 0;
+        display: flex;
+        justify-content: center;
+    }
+    .banner-sec {
+        padding: 30px 0 60px;
+    }
+    .banner-sec .banner-shape {
+        top: -192px;
+        left: -100px;
+    }
+    .banner-sec .banner-shape img {
+        max-width: 600px;
+        height: auto;
+        transform: rotateZ(356deg);
+    }
+    .home-why-choose-sec .why-choose-slider-cover .slider-item .choose-col-img img {
+        max-height: 35px;
+    }
+    .price-tab button {
+        font-size: 12px;
+        width: 120px;
+        min-height: 42px;
+    }
+}
+@media (#{$sm-479}) {
+    .faq-list-sec .faq-list-cover .faq-list-accordion .card-header .btn {
+        padding-left: 20px;
+    }
+    .faq-list-sec .faq-list-cover .faq-list-accordion .card-body {
+        padding: 5px 10px 5px 20px;
+    }
+    .home-why-choose-sec .why-choose-slider-cover .slider-item .choose-text-col h3 {
+        font-size: 15px;
+    }
+    .home-vision-sec .vision-wrapper .text-block .text-cover {
+        padding: 20px;
+    }
+    .banner-sec .banner-shape {
+        display: none;
+    }
+    .banner-sec::after {
+        display: none;
+    }
+    .banner-sec {
+        background-color: #26A69A;
+        padding: 30px 0;
+    }
+}
+@media(max-width: 400px){
+    .price-card ul {
+        max-width: 100%;
+        margin: 0 5px;
+    }
+}
